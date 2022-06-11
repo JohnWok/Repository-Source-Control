@@ -1,0 +1,24 @@
+https://github.com/techwithtim/Snake-Game.git
+
+I never seen a complex snake game before it was cool to see the code on how the creater created the game. 
+
+
+https://github.com/speedypotato/Pocket-SDVX.git
+
+I new to programming its been cool seeing cool projects that people are making and see how they make thoughs project. 
+I never seen how a controller was made it was cool to go through the code and understand some of the code as well. 
+
+
+https://github.com/772865705/MiniGames.git
+
+I thought this game was interesting because this developer was from a foreign country and to see how they code and design was similar. 
+
+
+https://github.com/SamaGames/PartyGames.git
+
+This project was party games it was different to see different games in one project. 
+
+
+https://github.com/zayedupal/Unity-Minimap/blob/2c0adaebbef7f7615926c3a47132faa78d06461b/.gitignore
+
+This project is in unity and has 2D and 3D games in the project. It was cool seeing the difference between 2D and 3D game was a neat.
